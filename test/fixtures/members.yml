@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  email: aaa@aaa.aaa
+  name: aaa aaa
+  age: 35
+
+two:
+  email: MyString
+  name: MyString
+  age: 1
